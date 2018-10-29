@@ -1,3 +1,4 @@
 testing git commands
 test commit1 for testing git config
 test commit2 for testing git config
+test commit on branch test branch
