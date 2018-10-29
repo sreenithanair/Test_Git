@@ -1,1 +1,2 @@
 testing git commands
+test commit for testing git config
